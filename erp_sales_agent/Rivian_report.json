@@ -1,0 +1,55 @@
+{
+  "company_profile": {
+    "name": "Target Company",
+    "domain": "target.com",
+    "industry": "Manufacturing",
+    "description": "A leading manufacturer of automotive components.",
+    "competitors": [
+      "Competitor A",
+      "Competitor B",
+      "Competitor C"
+    ]
+  },
+  "financial_analysis": {
+    "revenue": "$1.2 Billion",
+    "growth_rate": "15%",
+    "it_budget_estimate": "$50 Million",
+    "financial_health": "Strong"
+  },
+  "erp_triggers": {
+    "current_erp": "SAP ECC 6.0",
+    "pain_points": [
+      "Lack of real-time data",
+      "High maintenance costs",
+      "Siloed operations"
+    ],
+    "trigger_events": [
+      "Recent acquisition of Supplier X",
+      "Expansion into European market"
+    ],
+    "cloud_readiness": "High"
+  },
+  "stakeholders": [
+    {
+      "name": "Jane Doe",
+      "title": "CIO",
+      "linkedin_url": "https://linkedin.com/in/janedoe",
+      "relevance": "Responsible for overall IT strategy and digital transformation."
+    },
+    {
+      "name": "John Smith",
+      "title": "VP of Supply Chain",
+      "linkedin_url": "https://linkedin.com/in/johnsmith",
+      "relevance": "Key beneficiary of ERP improvements in logistics."
+    }
+  ],
+  "lead_score": {
+    "score": 85,
+    "reasoning": "Strong financial health and clear triggers for ERP modernization (M&A, Legacy ECC).",
+    "citations": [
+      "https://news.target.com/acquisition",
+      "https://finance.yahoo.com/quote/TGT"
+    ]
+  },
+  "generated_pitch": "Subject: Transforming Target Company's Operations\n\nHi Jane Doe,\n\nI noticed Target Company's recent expansion..."
+}
